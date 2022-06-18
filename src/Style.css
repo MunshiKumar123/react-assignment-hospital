@@ -1,0 +1,95 @@
+.color1 {
+    color: #1F3E5E;
+    font-weight: bold;
+}
+
+.color2 {
+    color: #003B79;
+    font-weight: bold;
+}
+
+.color3 {
+    background-color: #F1F7FB;
+}
+
+.our {
+
+    margin-top: 7rem;
+}
+
+.best {
+    margin-top: 4rem;
+}
+
+.carddd {
+    margin-top: -1rem;
+
+}
+
+.input {
+    width: 25rem;
+    border-radius: 10px;
+    border: none;
+    margin-left: -4rem;
+}
+
+.btn-1 {
+    margin-left: -10rem;
+    margin-bottom: 1rem;
+    padding: 12px 25px;
+    border-radius: 30px;
+}
+
+.stu {
+
+    background-color: #fff;
+    padding: 20px;
+    height: auto;
+    width: 45%;
+    border-radius: 20px;
+    border: 1px solid #fff;
+    margin: 10px 20px;
+    display: inline-block;
+}
+
+.review {
+    padding: 8px;
+    background-color: #003B79;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.aaa {
+
+    width: 25rem;
+    height: 30rem;
+    background-color: #EBEEFF;
+    border: none;
+    border-radius: 20px;
+}
+
+.cara {
+    width: 15rem;
+    height: 13rem;
+    background-color: #fff;
+    border: none;
+    border-radius: 10px;
+}
+
+.carr {
+    width: 15rem;
+    height: 18rem;
+    background-color: #AED3E2;
+    border: none;
+    border-radius: 10px;
+}
+
+.br {
+    border-radius: 10px;
+}
+
+a {
+    text-decoration: none;
+}
